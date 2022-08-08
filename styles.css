@@ -1,16 +1,23 @@
 h1 {
     color: mediumblue;
     text-align: left;
+    text-decoration-line: underline;
+    letter-spacing: 5px;
+    font-family: Tahoma, Verdana, sans-serif;
 }
 
 #toDoList {
     color: darkblue;
     text-align: left;
+    font-family: Tahoma, Verdana, sans-serif;
+
 }
 
 ul {
     color: maroon;
     text-align: left;
+    background-color: beige;
+    font-family: Tahoma, Verdana, sans-serif;
 }
 
 body {
