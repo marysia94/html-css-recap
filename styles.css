@@ -27,3 +27,10 @@ ul {
 body {
     background-image: url("https://www.britanniarose.com/images/fabrics/large/1125198.jpg");
 }
+
+.todo-item{
+    font-weight: bold;
+    list-style: none;
+    margin: 10px 0;
+
+}
