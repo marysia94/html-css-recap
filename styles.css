@@ -4,11 +4,15 @@ h1 {
 }
 
 #toDoList {
-    color: gray;
+    color: darkblue;
     text-align: left;
 }
 
 ul {
-    color: palevioletred;
+    color: maroon;
     text-align: left;
+}
+
+body {
+    background-image: url("https://www.britanniarose.com/images/fabrics/large/1125198.jpg");
 }
